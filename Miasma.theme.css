@@ -1,0 +1,35 @@
+/**
+ * @name Miasma
+ * @author EduardoStaRZ
+ * @version 0.1.0
+ * @description A Better Discord theme.
+ * @source https://github.com/EduardoStarZ/BD_Miasma
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=jetbrains+mono:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+
+:root {
+  --accentcolor: 95,135,95;
+  --accentcolor2: 140,119,71;
+  --linkcolor: 179,109,67;
+  --mentioncolor: 120,130,75;
+  --textbrightest: 201,165,84;
+  --textbrighter: 215,196,131;
+  --textbright: 103,133,103;
+  --textdark: 120,130,75;
+  --textdarker: 120,130,75;
+  --textdarkest: 104,87,66;
+  --font: jetbrains mono;
+  --backgroundaccent: 73,62,48;
+  --backgroundprimary: 43,38,34;
+  --backgroundsecondary: 46,47,34;
+  --backgroundsecondaryalt: 51,53,37;
+  --backgroundtertiary: 26,27,17;
+  --backgroundfloating: 60,63,45;
+  --settingsicons: 1;
+  --columns: 2;
+  --guildgap: 3;
+  --aligndms: 0;
+}
